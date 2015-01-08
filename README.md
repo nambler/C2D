@@ -8,7 +8,7 @@ C2D Pre-Release
 
 ![alt text] (http://static.tumblr.com/ywmlmzw/6h5m2qllb/vt-logo-transparent-1200x258.png)
 
-# Virginia Tech Systems Performance Lab  
+# Virginia Tech System Performance Lab  
 
 
 ## WHAT IS IT?
